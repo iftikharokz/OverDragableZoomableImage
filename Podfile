@@ -7,5 +7,6 @@ target 'NewTestProj' do
 
   # Pods for NewTestProj
    pod 'SSSwiftUIGIFView'
+pod 'SwiftyGif'
 
 end
